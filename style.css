@@ -541,6 +541,10 @@ span {
     .home-content h1 {
         font-size: 5rem;
     }
+
+    .text-animate h3 {
+        width: 300px;
+    }
 }
 
 @keyframes homeBgText {
