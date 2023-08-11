@@ -1,0 +1,36 @@
+1. C# 100%
+   · Windows Presentation Foundation (WPF)
+   · Winfows Forms (WinForms)
+   · Design Patterns / SOLID Principles
+   · System Programming:
+      · Asynchronous
+      · Multithreading
+      · Principle Apps Working
+   · Network Programming:
+      · Socket
+      · TCP
+      · UDP
+      · FTP
+      · HTTP / HTTPS
+      · API Communication
+
+2. C++ 80%
+   · SFML
+
+3. SQL 90%
+   · MySQL
+   · PostgreSQL
+
+4. ORM 100%
+   · Ado.net
+   · Dapper
+   · Entity Framework
+
+5. HTML 100%
+   · Full Syntax
+
+6. CSS 90%
+   · Full Syntax
+
+7. Java Script 100%
+   · React.js
