@@ -490,6 +490,7 @@ span {
     width: 100%;
 }
 
+<<<<<<< HEAD
 .skills-column:nth-child(1) .skills-content .progress:nth-child(5) .bar span {
     width: 100%;
 }
@@ -498,6 +499,8 @@ span {
     width: 100%;
 }
 
+=======
+>>>>>>> 250cd829ce886f71f636b5bdbf3fdb8140367b61
 .skills-column:nth-child(2) .skills-content .progress:nth-child(1) .bar span {
     width: 100%;
 }
@@ -514,6 +517,7 @@ span {
     width: 100%;
 }
 
+<<<<<<< HEAD
 .skills-column:nth-child(2) .skills-content .progress:nth-child(5) .bar span {
     width: 100%;
 }
@@ -522,6 +526,8 @@ span {
     width: 100%;
 }
 
+=======
+>>>>>>> 250cd829ce886f71f636b5bdbf3fdb8140367b61
 .contact form a {
     position: relative;
     display: inline-flex;
